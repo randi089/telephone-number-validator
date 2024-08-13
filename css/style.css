@@ -40,6 +40,7 @@ main > h1:nth-child(2) {
 }
 
 .phone {
+  max-width: 220px;
   height: 400px;
   background-color: var(--white);
   display: flex;
